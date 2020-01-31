@@ -6,3 +6,5 @@ bestSeller: This is a method to get the best Seller, which rating is know. First
             
 linear_regression: An example to train, validate and test a dataset and find the best function that fits the points.
                    We try to avoid overfitting or underfitting.
+                   
+bayesian_linear_regression: This is an example to sample from a posterior and plot all resulting linear models.
